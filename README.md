@@ -128,27 +128,20 @@ After a successful run you’ll get:
 
 ## 🧪 Example Console Output
 
-> Replace this with your **actual run output** to keep the README honest.  
-> (The script prints a comprehensive summary; copy it here.)
 
 ```
-📊 OPENALEX COLLECTION SUMMARY:
-----------------------------------------
-By Category:
-  core           : 35 papers
-  related        : 42 papers
-
-By Year:
-  2020: 12 papers
-  2021: 18 papers
-  2022: 20 papers
-  2023: 15 papers
-  2024: 10 papers
-
-Citation Statistics:
-  Average citations: 8.4
-  Max citations: 45
-  Papers with >10 citations: 21
+Energy Hub Publication Data (2020-2025):
+------------------------------
+Year | Total Papers
+------------------------------
+2020 |     463
+2021 |     499
+2022 |     600
+2023 |     1554
+2024 |     3996
+2025 |     3545
+------------------------------
+Total: 10657 papers
 ```
 
 ---
