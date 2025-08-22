@@ -118,7 +118,7 @@ After a successful run you’ll get:
 
 ## 🖼️ Preview (once you’ve run it)
 
-> These image names are produced by the script; they’ll render in your repo once generated.
+> These image names are produced by the script;.
 
 ![Energy Hub Analysis](openalex_energy_hub_analysis.png)
 
