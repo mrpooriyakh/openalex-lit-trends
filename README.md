@@ -188,6 +188,5 @@ Add your preferred license (MIT/Apache‑2.0 are great defaults).
 
 If you use the exported data in a paper:
 ```
-Data retrieved from OpenAlex (https://openalex.org/) on YYYY‑MM‑DD.
-OpenAlex is developed by OurResearch and provides open access to scholarly metadata.
+Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. ArXiv. https://arxiv.org/abs/2205.01833
 ```
