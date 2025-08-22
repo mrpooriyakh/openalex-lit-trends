@@ -180,7 +180,7 @@ Citation Statistics:
 
 ## 📜 License
 
-Add your preferred license (MIT/Apache‑2.0 are great defaults).
+MIT
 
 ---
 
