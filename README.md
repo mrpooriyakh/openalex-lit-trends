@@ -39,7 +39,7 @@ openalex-energyhub-analysis/
 
 ```bash
 # 1) Clone
-git clone https://github.com/YOUR_USERNAME/openalex-energyhub-analysis.git
+git clone https://github.com/mrpooriyakh/openalex-energyhub-analysis.git
 cd openalex-energyhub-analysis
 
 # 2) (Optional) Create a virtual environment
